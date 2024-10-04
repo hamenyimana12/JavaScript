@@ -1,0 +1,42 @@
+// exo4
+// let chaine="bonjour";
+// let nombre=42;
+// let booleen= true;
+// console.long (typeof chaine); //Affiche : string
+// console.long (typeof nombre);//Affiche : numero
+// console.long (typeof booleen);// Affiche : booleen
+
+
+//exo5
+// let prenom = "john";
+// let nom = "Doe";
+// let nomComplet = prenom + nom;
+// console.log(nomComplet);// Affiche : john Doe 
+
+
+
+//exo6
+
+// let compteur = 0
+// compteur++;
+// comptuer++;
+// compteur++;
+// console.log(compteur)//Affiche:3
+
+
+exo8
+// let a =5;
+// let b =10;
+// let temp=a;
+// a = b;
+// b = temp;
+// console.log(a);//Affiche :10;
+// console.log(b);//Affiche : 5;
+ 
+
+exo7
+
+let x = 1, y = 2, z = 3; 
+console.log(x); // Affiche : 1 
+console.log(y); // Affiche : 2 
+console.log(z); // Affiche : 3
