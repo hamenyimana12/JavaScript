@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="test.css">
+
+</head>
+<body>
+  <div id="menu">
+       <div class="item">
+               <span>hello</span>
+               <span>hi</span>
+       </div>
+
+       <div class="publicite">
+            <span>Élément 3</span>
+            <span>Élément 4</span>
+       </div>
+  </div>
+
+  <div id="contenu">
+   <span>Introduction au contenu de la page...</span>
+  </div>
+
+  <script>
+        let x=document.querySelector("#menu .item span");
+        alert(x.innerHTML);
+  </script>
+
+
+
+</body>
+</html>
